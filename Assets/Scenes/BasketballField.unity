@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 343533822}
   - component: {fileID: 343533821}
   - component: {fileID: 343533824}
+  - component: {fileID: 343533825}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -242,6 +243,192 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &343533825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 343533820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16fc37e4f15f8d042b8e1bd240bebf5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &831887189
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.5459776
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0027265549
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8363361044403187600, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_Name
+      value: Wii - Summer Sports 2 Island Sports Party - Basketball H-O-R-S-E & Shot
+        Clock_3 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+--- !u!1001 &987637306
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.833972
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.469719
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8363361044403187600, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_Name
+      value: Wii - Summer Sports 2 Island Sports Party - Basketball H-O-R-S-E & Shot
+        Clock_3 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+--- !u!1001 &1046716531
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.4938993
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9153018
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735606315849718331, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8363361044403187600, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
+      propertyPath: m_Name
+      value: Wii - Summer Sports 2 Island Sports Party - Basketball H-O-R-S-E & Shot
+        Clock_3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d3917d7b81927ab448f09ed72185ef10, type: 3}
 --- !u!1 &1451204290
 GameObject:
   m_ObjectHideFlags: 0
@@ -273,7 +460,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!60 &1451204296
 PolygonCollider2D:
@@ -340,7 +527,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3260888894534600633, guid: 23898ca309ac5434ea166caa82256827, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3260888894534600633, guid: 23898ca309ac5434ea166caa82256827, type: 3}
       propertyPath: m_LocalPosition.x
@@ -470,7 +657,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2126604295
 PrefabInstance:
@@ -483,6 +670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 8912885467473640570, guid: b24f42435ae768f4b80704b996f88fd7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8912885467473640574, guid: b24f42435ae768f4b80704b996f88fd7, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -493,7 +684,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8912885467473640574, guid: b24f42435ae768f4b80704b996f88fd7, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8912885467473640574, guid: b24f42435ae768f4b80704b996f88fd7, type: 3}
       propertyPath: m_AnchorMax.x

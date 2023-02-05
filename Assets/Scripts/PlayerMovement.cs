@@ -48,6 +48,11 @@ public class PlayerMovement : MonoBehaviour
         float moveY = Input.GetAxisRaw("Vertical");
 
         moveDirection = new Vector2(moveX, moveY).normalized;
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            anim.SetTrigger("Roll");
+            StartCoroutine(CameraShake.Instance.ShakeCamera(1f, 0.3f));
+        }
         if (moveDirection.magnitude == 1)
         {
             if (moveDirection.x < 0)
