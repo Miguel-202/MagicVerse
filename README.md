@@ -24,7 +24,7 @@ SportsVerse, initially known as MagicVerse, is a 2D prototype game conceived in 
 - Received public acknowledgment in the middle of an Orlando Magic basketball game, at center court.
 
 ## Note
-This repository is for showcasing purposes. The original project with commit history is in a private repository due to institutional constraints.
+This repository just showcase the Game development aspect of the project, but the idea was not only the prototype we managed to create in 2 days.
 
 ---
 
