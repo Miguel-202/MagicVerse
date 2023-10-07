@@ -26,6 +26,4 @@ SportsVerse, initially known as MagicVerse, is a 2D prototype game conceived in 
 ## Note
 This repository just showcase the Game development aspect of the project, but the idea was not only the prototype we managed to create in 2 days.
 
----
 
-Feel free to edit and adjust as necessary!
