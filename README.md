@@ -1,5 +1,9 @@
-# SportsVerse (Formerly MagicVerse)
-![SportsVerse_Logo](/SportsVerseLogo.png)
+<p align="center">
+  <h1 align="center">SportsVerse (Formerly MagicVerse)</h1>
+</p>
+<p align="center">
+  <img src="/SportsVerseLogo.png" width="300" alt="SportsVerse Logo">
+</p>
 
 ## Overview
 SportsVerse, initially known as MagicVerse, is a 2D prototype game conceived in just three days. Developed by a talented team of six individuals, the concept was shaped in a day, and the actual game development occurred parallelly over the course of the next two days. The aim is to create an inclusive sports-themed Metaverse that serves children from around the world, including those with disabilities. This project was honored with 1st place in the Orlando Magic Innovation Challenge 2023 and received public recognition during halftime at an Orlando Magic basketball game.
